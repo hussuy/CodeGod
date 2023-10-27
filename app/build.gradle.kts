@@ -4,12 +4,12 @@ plugins {
 
 android {
     namespace = "com.hussuy.codegod"
-    compileSdk = 33
+    compileSdk = 34
 
     defaultConfig {
         applicationId = "com.hussuy.codegod"
         minSdk = 23
-        targetSdk = 33
+        targetSdk = 34
         versionCode = 1
         versionName = "1.0"
 
